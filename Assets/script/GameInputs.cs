@@ -173,7 +173,7 @@ public partial class @GameInputs: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""negative"",
                     ""id"": ""6afe3373-18e9-4f80-b4d8-4e5494881497"",
-                    ""path"": ""<Keyboard>/#(A)"",
+                    ""path"": ""<Keyboard>/a"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
